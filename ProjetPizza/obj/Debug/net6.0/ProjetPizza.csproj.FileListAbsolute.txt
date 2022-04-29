@@ -1,5 +1,0 @@
-C:\Users\Grindlu\Desktop\trainProg\ProjetPizza\obj\Debug\net6.0\ProjetPizza.csproj.AssemblyReference.cache
-C:\Users\Grindlu\Desktop\trainProg\ProjetPizza\obj\Debug\net6.0\ProjetPizza.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Grindlu\Desktop\trainProg\ProjetPizza\obj\Debug\net6.0\ProjetPizza.AssemblyInfoInputs.cache
-C:\Users\Grindlu\Desktop\trainProg\ProjetPizza\obj\Debug\net6.0\ProjetPizza.AssemblyInfo.cs
-C:\Users\Grindlu\Desktop\trainProg\ProjetPizza\obj\Debug\net6.0\ProjetPizza.csproj.CoreCompileInputs.cache
